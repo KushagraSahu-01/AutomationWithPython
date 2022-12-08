@@ -1,0 +1,93 @@
+p{
+    color: rgb(50, 50, 50);
+    padding: 1rem;
+    word-spacing: 0.1ch;
+    font-weight: 500;
+    text-align: left;
+    font-size: large;
+    font-family: Georgia,'Times New Roman',Times,serif;
+    width: 85vw;
+    max-width: 800px;
+}
+
+img{
+    width: 90%;
+    padding: 10px;
+    height: auto;
+}
+h1,h2{
+    padding: 1rem;
+    color: rgb(40, 40, 40);
+    font-family: "FuturaBQ", sans-serif;
+}
+h3{
+    padding: 1rem;
+    color: rgb(40, 40, 40);
+    font-family: "FuturaBQ", sans-serif;
+}
+.center{
+        margin: 0 auto 0;
+}
+.centerText{
+    text-align: center;
+}
+.Round{
+    border: solid black;
+    border-radius: 1rem;
+    width: 90vw;
+    max-width: 900px;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("repeated-square-dark.png");
+}
+ul{
+    background-color: gold;
+    padding: 0;
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    padding:10px;
+}
+
+a:link,a:visited{
+    color: rgb(40, 40, 40);
+    text-decoration: none;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+    color: rgb(50, 50, 50);
+    text-align: left;
+    font-size: large;
+    font-family: Georgia,'Times New Roman',Times,serif;
+    width: 85vw;
+    max-width: 800px;
+}
+a:hover{
+    color: grey;
+}
+.FrameBorder{
+    border : 2px solid;
+    border-radius: 2rem;
+    margin: 2rem auto;
+    max-width: 1400px;
+    background-color: white;
+}
+.textForm{
+    padding: 10px 20px;
+    margin: 10px;
+}
+label{
+    margin-left: 20px;
+    margin-top: 10px;
+    display: block;
+    color: rgb(40, 40, 40);
+    font-family: "FuturaBQ", sans-serif;
+
+}
+textarea{
+    width: 90%;
+    margin-left: 20px;
+}
